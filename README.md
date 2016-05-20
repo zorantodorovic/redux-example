@@ -7,7 +7,7 @@ This is a simple [Redux](https://github.com/reactjs/redux) example. Here you can
 Checkout this repo, install depdencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:maranbomater/Redux_example.git
+	> git clone git@github.com:maranbomater/Redux-example.git
 	> cd Redux_example
 	> npm install
 	> npm start
