@@ -12,5 +12,5 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 	> npm install
 	> npm start
 
-	>open http://localhost:8080/ in browser
+	> open http://localhost:8080/ in browser
 ```
