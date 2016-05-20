@@ -5,7 +5,7 @@ export default function() {
 		{name: 'Tomislav Bilopavlovic', position: 'iOS Developer'},
 		{name: 'Luka Basek', position: 'Android Developer'},
 		{name: 'Luka Dulcic', position: 'Android Developer'},
-		{name: 'Luka Drezga', position: 'Junior Designer'},
+		{name: 'Luka Drezga', position: 'Designer'},
 		{name: 'Zoran Todorovic', position: 'Front-end Team Lead'},
 		{name: 'Marko Aras', position: 'Front-end Developer'},
 		{name: 'Laura Kokotovic', position: 'Front-end Developer'}

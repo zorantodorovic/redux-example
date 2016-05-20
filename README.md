@@ -4,7 +4,7 @@ This is a simple [Redux](https://github.com/reactjs/redux) example. Here you can
 
 ###Getting Started###
 
-Checkout this repo, install depdencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
 	> git clone git@github.com:maranbomater/Redux-example.git
